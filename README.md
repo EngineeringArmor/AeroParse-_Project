@@ -1,5 +1,5 @@
 # Project AeroParse: Rocket Dynamics Data Pipeline
-**Completed by** EngineeringArmor  (Freshman ECHS Scholar)
+**Completed by** EngineeringArmor  (14 year old Freshman ECHS Texan)
 ##Target Focus:**  Aerospace Engineering & Computational Modeling
 
 
@@ -18,5 +18,5 @@ Telemetry data was exported to a CSV format, and a custom **Python** pipeline ut
 
 ## 🛠 Softare & Tools Utilized
 * **OpenRocket IDE:** Aerodynamic stability configuration and numerical physics engine simulation.
-* ***VS Code** Integrated development enviornment for script deployment.
+* **VS Code** Integrated development enviornment for script deployment.
 * **Python 3:** Data structure parsing. string normalization, and telemetry plotting.
